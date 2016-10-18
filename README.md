@@ -9,7 +9,7 @@ NIS: 4653/1372.070
 
 Nama Sekolah: SMK Telkom Malang
 
-Aplikasi ActivityLivecycle ini berfungsi untuk menjalankan background music sederhana secara langsung ketika aplikasi ActivityLivecycle pertama kali dibuka.
+Aplikasi **ActivityLivecycle** ini berfungsi untuk menjalankan background music sederhana secara langsung ketika aplikasi ActivityLivecycle pertama kali dibuka.
 
 Cara menggunakan aplikasi ini yaitu:
   - Hanya dengan membuka aplikasi ActivityLivecycle.
